@@ -1,4 +1,5 @@
 # Requirements needed for running the project
+ascyncio
 prompt_toolkit>=2.0.3,<3.0.0
 pygments
 pyparsing
